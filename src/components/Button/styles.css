@@ -1,0 +1,16 @@
+button {
+  height: 45px;
+  width: 20%;
+  border: 1px solid rgba(240,246,252,0.1);
+  border-radius: 0.5rem;
+  background-color: #21262d;
+  font-size: 0.875rem;
+  color: #999999;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #30363d;
+  border-color: #8b949e;
+  transition-duration: .1s;
+}

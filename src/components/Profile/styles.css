@@ -1,0 +1,19 @@
+.profile {
+  display: flex;
+  gap: 1.75rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(229, 229, 229, 0.2);
+}
+
+.profileInfo {
+  color: #999999;
+}
+
+.description {
+  margin-top: 1.25rem;
+}
+
+img {
+  width: 100px;
+  border-radius: 50%;
+}
