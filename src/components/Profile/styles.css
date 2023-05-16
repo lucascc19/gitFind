@@ -1,6 +1,7 @@
 .profile {
   display: flex;
   gap: 1.75rem;
+  margin-top: 2.75rem;
   padding-bottom: 1rem;
   border-bottom: 1px solid rgba(229, 229, 229, 0.2);
 }
@@ -9,7 +10,7 @@
   color: #999999;
 }
 
-.description {
+.profileInfo p:last-child {
   margin-top: 1.25rem;
 }
 

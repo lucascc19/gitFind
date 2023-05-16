@@ -1,0 +1,18 @@
+.item-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid rgba(229, 229, 229, 0.2);
+}
+
+.item-list strong {
+  color: #539BF5;
+  font-size: 1.25rem;
+}
+
+.item-list p {
+  color: #8b949e;
+  font-size: 0.875rem;
+}
